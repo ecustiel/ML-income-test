@@ -1,0 +1,17 @@
+
+
+.resultsScreen__main {
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.resultsScreen__box {
+    display: flex;
+    width: 74vw;
+    margin: 50px auto;
+    height: 100h;
+    background-color: $background-gray;
+    border-color: black;
+}

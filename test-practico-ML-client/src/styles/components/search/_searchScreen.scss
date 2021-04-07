@@ -1,0 +1,34 @@
+
+
+.searchScreen__container {
+    align-items: center;
+    background-color: $primary-yellow;
+    justify-content:center;
+    margin: 0px;
+
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    
+    
+}
+
+.searchScreen_imgContainer-left {
+    &-logo{
+        padding: 25px 20px 20px 20px;
+            
+    }
+
+}
+
+.searchScreen__input {
+    font-size: 18px;
+    padding: 5px;
+    width: 70vw;
+    border: none;
+
+    &::placeholder {
+        font-size: 18px;
+    }
+    
+}

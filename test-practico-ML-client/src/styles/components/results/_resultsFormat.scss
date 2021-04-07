@@ -1,0 +1,78 @@
+
+
+
+.resultsFormat__container{
+    padding: 16px;
+    display: flex;
+    width: 72vw;
+    background-color: white;
+    border-bottom: 0.3px solid gray ;
+}
+
+
+.resultsFormat__imgContainer {
+    display: inline;  
+    text-align: left;
+    margin-right: 16px;
+
+    &-img{
+        width: 180px;
+        height: 180px;
+    }
+    
+}
+
+//container de la informacion
+.resultsFormat {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+}
+
+//precio e icono shipping
+.resultsFormat_detsContainer-price{
+    float: left;
+    font-size: 24px;
+    margin: 32px 10px 32px 16px;
+}
+
+.resultsFormat_detsContainer-img {
+    float: left;
+    margin-top: 35px;
+    
+}
+
+//titulo
+.resultsFormat__titleContainer {
+    flex-wrap: wrap;
+   display: flex;
+   height: 50%;
+   text-align: left;
+
+   &-title {
+    margin-left: 0;
+    width: 100%;
+    flex-wrap: wrap;
+    font-size: 18px;
+   }
+    
+}
+
+
+//localidad
+.resultsFormat__locContainer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 5rem;
+    
+    &-loc {
+        display: flex;
+    justify-content: center;
+    margin-right: 0;
+    font-size: 12px;
+    }
+}
+
+
