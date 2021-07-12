@@ -1,4 +1,4 @@
-# Mercado Libre - Prueba de Ingreso
+# Mercado Libre - Prueba de Ingreso (Admission Test)
 Prueba realizada para ingresar a Mercado Libre como Front-End Developer. <br>
 La web funciona a modo "Replica" de Mercado Libre, con su respectivo buscador, muestra de productos y al seleccionar uno el mismo lleva a una descripcion detallada del mismo.<br>
 Se hizo consumiendo una API que Mercado Libre brinda para pruebas. Todo debia ser consumido de ahi, por eso la baja calidad de las imagenes en la Descripcion.<br>
@@ -42,7 +42,6 @@ https://www.npmjs.com/package/node-fetch
 
 Para ejecutar es posible que requiera <b><i>instalar nodemon (npm i nodemon)</b></i> y luego ejecutar tanto en front como back el comando <b><i>npm start</b></i>
 <hr>
-Mercado Libre - Income Test
 Test performed to enter Mercado Libre as Front-End Developer.<br>
 The website works as a "Replica" of Mercado Libre, with its respective search engine, product sample and when selecting one, it leads to a detailed description of it.<br>
 It was done by consuming an API that Mercado Libre provides for testing. Everything had to be consumed from there, that's why the low quality of the images in the Description.<br>
